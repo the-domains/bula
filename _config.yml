@@ -1,0 +1,28 @@
+name: bula
+favicon: null
+layout_spectrum: 0.6135932456236333
+typography_spectrum: 0.3198303251992911
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.3190454072318971
+  lightness: 0.7382870577275753
+  saturation: 0.702232452807948
+  rhythmicContrast: 0.9583669290877879
+purpose: []
