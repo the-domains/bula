@@ -1,7 +1,7 @@
 name: bula
 favicon: null
-layout_spectrum: 0.6135932456236333
-typography_spectrum: 0.3198303251992911
+layout_spectrum: 0.50789
+typography_spectrum: 0.18075
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.3190454072318971
+    - '#3f7eb3'
+    - '#a5c1cd'
+    - '#352832'
+    - '#9b9b91'
+    - '#8a6d6e'
+  brandStrength: 0.25
   lightness: 0.7382870577275753
   saturation: 0.702232452807948
   rhythmicContrast: 0.9583669290877879
